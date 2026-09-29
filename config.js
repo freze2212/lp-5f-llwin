@@ -2,9 +2,12 @@
  * Cấu hình link redirect theo domain (Cloudflare Pages).
  */
 window.LINK_CONFIG = {
-  default: "https://25llwin.com/?id=579104605",
+  default: "https://22llwin.com/?id=980680827",
 
   domains: {
+    "www.www.llquocte.us": "https://22llwin.com/?id=980680827",
+    "www.llquocte.us": "https://22llwin.com/?id=980680827",
+    "llquocte.us": "https://22llwin.com/?id=980680827",
     "www.www.ll889.us": "https://25llwin.com/?id=579104605",
     "www.ll889.us": "https://25llwin.com/?id=579104605",
     "ll889.us": "https://25llwin.com/?id=579104605",
