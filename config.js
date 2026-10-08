@@ -76,7 +76,6 @@ window.LINK_CONFIG = {
     "gg88bet.uk": "https://www.gg8850.com/?id=532307045",
     "g8d1.net": "https://www.gg8859.com/?id=235748786",
     "gg88qte.com": "https://gg8846.com/?id=566308881",
-    "gg88sgp.com": "https://www.gg8826.com/?id=720056733",
     "gg88quocte.com": "https://www.gg8826.com/?id=720056733",
     "gg88sing.org": "https://www.gg8826.com/?id=720056733",
     "gg88am.com": "https://gg8817.com/?id=340055393",
