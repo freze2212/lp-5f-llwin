@@ -55,7 +55,6 @@ window.LINK_CONFIG = {
     "www.gg88usa.net": "https://www.gg8826.com/home/register?id=170291680",
     "gg88usa.net": "https://www.gg8826.com/home/register?id=170291680",
     "www.www.gg88am.com": "https://gg8817.com/?id=340055393",
-    "www.gg88am.com": "https://gg8817.com/?id=340055393",
     "www.gg88sing.co": "https://www.gg8824.com/?id=516358228",
     "gg88sing.co": "https://www.gg8824.com/?id=516358228",
     "www.gg8sing.vip": "https://gg8824.com/?id=966041804",
@@ -76,7 +75,6 @@ window.LINK_CONFIG = {
     "gg88qte.com": "https://gg8846.com/?id=566308881",
     "gg88quocte.com": "https://www.gg8826.com/?id=720056733",
     "gg88sing.org": "https://www.gg8826.com/?id=720056733",
-    "gg88am.com": "https://gg8817.com/?id=340055393",
   },
 };
 
