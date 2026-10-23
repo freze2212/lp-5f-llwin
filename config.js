@@ -5,9 +5,9 @@ window.LINK_CONFIG = {
   default: "#",
 
   domains: {
-    "www.www.ll883.us": "https://www.22llwin.com/home/register?id=729813997",
-    "www.ll883.us": "https://www.22llwin.com/home/register?id=729813997",
-    "ll883.us": "https://www.22llwin.com/home/register?id=729813997",
+    "www.www.ll883.us": "https://www.22llwin.com/home/register?id=790013464",
+    "www.ll883.us": "https://www.22llwin.com/home/register?id=790013464",
+    "ll883.us": "https://www.22llwin.com/home/register?id=790013464",
     "www.www.ll881.us": "https://www.22llwin.com/home/register?id=979810906",
     "www.ll881.us": "https://www.22llwin.com/home/register?id=979810906",
     "ll881.us": "https://www.22llwin.com/home/register?id=979810906",
