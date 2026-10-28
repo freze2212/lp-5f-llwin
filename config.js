@@ -5,6 +5,8 @@ window.LINK_CONFIG = {
   default: "#",
 
   domains: {
+    "www.llquocte.us": "https://www.22llwin.com/home/register?id=288451430",
+    "llquocte.us": "https://www.22llwin.com/home/register?id=288451430",
     "www.www.ll883.us": "https://www.22llwin.com/home/register?id=790013464",
     "www.ll883.us": "https://www.22llwin.com/home/register?id=790013464",
     "ll883.us": "https://www.22llwin.com/home/register?id=790013464",
@@ -17,7 +19,7 @@ window.LINK_CONFIG = {
     "www.www.llquocte.cc": "https://www.22llwin.com/home/register?id=436876708",
     "www.llquocte.cc": "https://www.22llwin.com/home/register?id=436876708",
     "llquocte.cc": "https://www.22llwin.com/home/register?id=436876708",
-    "www.www.llquocte.us": "https://www.22llwin.com/home/register?id=845738530",
+    "www.www.llquocte.us": "https://www.22llwin.com/home/register?id=288451430",
     "www.www.ll889.us": "https://25llwin.com/?id=579104605",
     "www.ll889.us": "https://25llwin.com/?id=579104605",
     "ll889.us": "https://25llwin.com/?id=579104605",
