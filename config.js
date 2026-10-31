@@ -5,6 +5,7 @@ window.LINK_CONFIG = {
   default: "#",
 
   domains: {
+    "www.www.llqt.uk": "https://09llwin.com/?id=734695903",
     "www.llquocte.us": "https://www.22llwin.com/home/register?id=288451430",
     "llquocte.us": "https://www.22llwin.com/home/register?id=288451430",
     "www.www.ll883.us": "https://www.22llwin.com/home/register?id=790013464",
@@ -35,8 +36,8 @@ window.LINK_CONFIG = {
     "www.llpro.us": "https://25llwin.com/home/register?id=896861006",
     "llvip.uk": "https://25llwin.com/home/register?id=510718259",
     "www.llvip.uk": "https://25llwin.com/home/register?id=510718259",
-    "llqt.uk": "https://www.22llwin.com/?id=845738530",
-    "www.llqt.uk": "https://www.22llwin.com/?id=845738530",
+    "llqt.uk": "https://09llwin.com/?id=734695903",
+    "www.llqt.uk": "https://09llwin.com/?id=734695903",
     "www.www.tiktoka.art": "https://www.gg8843.com/?id=347045808",
     "www.tiktoka.art": "https://www.gg8843.com/?id=347045808",
     "tiktoka.art": "https://www.gg8843.com/?id=347045808",
