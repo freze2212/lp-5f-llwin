@@ -48,7 +48,6 @@ window.LINK_CONFIG = {
     "www.tiktoktv.fit": "https://www.gg8832.com/?id=742263319",
     "tiktoktv.fit": "https://www.gg8832.com/?id=742263319",
     "www.www.gg88phi.com": "https://www.gg8838.com/?id=407699684",
-    "www.gg88phi.com": "https://www.gg8838.com/?id=407699684",
     "www.www.gg88h.shop": "https://gg8817.com/?id=125115306",
     "www.gg88h.shop": "https://gg8817.com/?id=125115306",
     "gg88h.shop": "https://gg8817.com/?id=125115306",
