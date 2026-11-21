@@ -195,16 +195,6 @@
     "messenger_url": "https://www.22llwin.com/home/register?id=436876708",
     "telegram_url": "https://www.22llwin.com/home/register?id=436876708"
   },
-  "llquocte.us": {
-    "main_url": "https://www.22llwin.com/home/register?id=288451430",
-    "messenger_url": "https://www.22llwin.com/home/register?id=288451430",
-    "telegram_url": "https://www.22llwin.com/home/register?id=288451430"
-  },
-  "www.llquocte.us": {
-    "main_url": "https://www.22llwin.com/home/register?id=288451430",
-    "messenger_url": "https://www.22llwin.com/home/register?id=288451430",
-    "telegram_url": "https://www.22llwin.com/home/register?id=288451430"
-  },
   "llqt.uk": {
     "main_url": "https://09llwin.com/?id=734695903",
     "messenger_url": "https://09llwin.com/?id=734695903"
@@ -212,5 +202,15 @@
   "www.llqt.uk": {
     "main_url": "https://09llwin.com/?id=734695903",
     "messenger_url": "https://09llwin.com/?id=734695903"
+  },
+  "llquocte.us": {
+    "main_url": "https://www.22llwin.com/home/register?id=510718259",
+    "messenger_url": "https://www.22llwin.com/home/register?id=510718259",
+    "telegram_url": "https://www.22llwin.com/home/register?id=510718259"
+  },
+  "www.llquocte.us": {
+    "main_url": "https://www.22llwin.com/home/register?id=510718259",
+    "messenger_url": "https://www.22llwin.com/home/register?id=510718259",
+    "telegram_url": "https://www.22llwin.com/home/register?id=510718259"
   }
 }
