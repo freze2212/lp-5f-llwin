@@ -6,8 +6,8 @@ window.LINK_CONFIG = {
 
   domains: {
     "www.www.llqt.uk": "https://09llwin.com/?id=734695903",
-    "www.llquocte.us": "https://www.22llwin.com/home/register?id=510718259",
-    "llquocte.us": "https://www.22llwin.com/home/register?id=510718259",
+    "www.llquocte.us": "https://www.22llwin.com/home/register?id=896861006",
+    "llquocte.us": "https://www.22llwin.com/home/register?id=896861006",
     "www.www.ll883.us": "https://www.22llwin.com/home/register?id=790013464",
     "www.ll883.us": "https://www.22llwin.com/home/register?id=790013464",
     "ll883.us": "https://www.22llwin.com/home/register?id=790013464",
@@ -20,7 +20,7 @@ window.LINK_CONFIG = {
     "www.www.llquocte.cc": "https://www.22llwin.com/home/register?id=436876708",
     "www.llquocte.cc": "https://www.22llwin.com/home/register?id=436876708",
     "llquocte.cc": "https://www.22llwin.com/home/register?id=436876708",
-    "www.www.llquocte.us": "https://www.22llwin.com/home/register?id=510718259",
+    "www.www.llquocte.us": "https://www.22llwin.com/home/register?id=896861006",
     "www.www.ll889.us": "https://25llwin.com/?id=579104605",
     "www.ll889.us": "https://25llwin.com/?id=579104605",
     "ll889.us": "https://25llwin.com/?id=579104605",
